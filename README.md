@@ -1,0 +1,13 @@
+ sobre mim
+---
+
+-   👋 ola, meu nome e  @piordaloud
+- 👀 me interesso em games...
+- 🌱 estou aprendendo programar em java script ...
+- 💞️ no meu tempo livre eu gosto de jogar futebol ...
+- 📫  vc ṕode me contrar mandando sms no email @gian.ventura.@escola.pr.gov.br...
+
+<!---
+piordaloud/piordaloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
